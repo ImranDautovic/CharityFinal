@@ -1,0 +1,30 @@
+body{
+background-color: rgba(0, 0,255, 0.5);
+}
+nav{
+	font-size: 20px;
+}
+.a{
+	float:center;
+}
+.columns {
+  float: left;
+  width: 50%;
+}
+
+
+.rows:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+	  
+	 
+      height: 40px;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: rgba(0,0,0,0.8);
+	  color: white;
+  }
